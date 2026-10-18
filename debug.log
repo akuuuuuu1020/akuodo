@@ -1,0 +1,66 @@
+[1028/130900.951:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1028/131956.007:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1029/175555.754:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1029/180826.616:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1031/193925.680:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1031/193929.641:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1101/115918.510:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1107/164201.439:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1111/142241.992:ERROR:settings.cc(325)] Settings version is not 1
+[1111/151016.621:ERROR:settings.cc(325)] Settings version is not 1
+[1111/151241.456:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1111/151243.429:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1111/151524.129:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1111/152121.861:ERROR:settings.cc(325)] Settings version is not 1
+[1111/153529.272:ERROR:settings.cc(325)] Settings version is not 1
+[1111/154741.099:ERROR:settings.cc(325)] Settings version is not 1
+[1111/210058.071:ERROR:settings.cc(325)] Settings version is not 1
+[1111/210228.633:ERROR:settings.cc(325)] Settings version is not 1
+[1111/211745.119:ERROR:settings.cc(325)] Settings version is not 1
+[1111/213907.739:ERROR:settings.cc(325)] Settings version is not 1
+[1111/214014.187:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1111/214016.070:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/133123.802:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/133943.469:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/133945.047:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/172524.573:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/173106.156:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/173849.428:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1112/174329.314:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1114/105437.549:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1115/144224.982:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1202/151601.185:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1202/151838.503:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1204/150710.841:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1205/140233.740:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1206/163153.852:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1209/123503.631:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1211/182602.377:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1211/211611.618:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1211/222311.730:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1218/135200.973:ERROR:settings.cc(325)] Settings version is not 1
+[1218/140256.104:ERROR:settings.cc(325)] Settings version is not 1
+[1223/164038.088:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1224/002736.990:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1224/003215.606:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1226/115339.766:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1226/140401.013:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1227/192818.222:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0121/185515.362:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0129/175047.873:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0130/145151.207:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0131/114947.824:ERROR:settings.cc(325)] Settings version is not 1
+[0201/230042.179:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0203/145645.595:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0203/145946.419:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0204/133809.353:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0205/191401.107:ERROR:settings.cc(325)] Settings version is not 1
+[0205/205230.678:ERROR:settings.cc(325)] Settings version is not 1
+[0210/154426.748:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0211/015837.777:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0211/020006.744:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0310/215152.435:ERROR:settings.cc(325)] Settings version is not 1
+[0513/161124.503:ERROR:settings.cc(325)] Settings version is not 1
+[0520/142831.546:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0607/214943.961:ERROR:settings.cc(325)] Settings version is not 1
+[0607/220353.367:ERROR:settings.cc(325)] Settings version is not 1
